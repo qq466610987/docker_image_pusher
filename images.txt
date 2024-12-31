@@ -1,2 +1,3 @@
 nginx
 onlyoffice/documentserver
+openjdk:8-jdk-alpine
