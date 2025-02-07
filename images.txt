@@ -5,3 +5,4 @@ postgis/postgis:17-master
 minio/minio:latest
 mysql:5.7
 nacos/nacos-server:v2.5.0
+redis
