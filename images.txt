@@ -3,3 +3,4 @@ onlyoffice/documentserver
 openjdk:8-jdk-alpine
 postgis/postgis:17-master
 minio/minio:latest
+mysql:5.7
