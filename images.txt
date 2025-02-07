@@ -8,3 +8,4 @@ nacos/nacos-server:v2.5.0
 redis
 openjdk:8-jre
 nacos/nacos-server:v2.3.0
+nacos/nacos-server:v2.0.4
