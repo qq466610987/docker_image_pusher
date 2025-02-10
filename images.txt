@@ -11,3 +11,4 @@ nacos/nacos-server:v2.3.0
 nacos/nacos-server:v2.0.4
 maven:3.8-openjdk-8
 busybox
+kartoza/geoserver:2.26.1
